@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  /*background-image: url('https://i.pinimg.com/originals/fe/4e/1f/fe4e1f4798cb62049f3476ed3edd87f6.jpg'); */
+  background-color: #1C1C1C;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  
+}
+
+.page-prova {
+  width: 500px;
+  border-radius: 50%; 
+  margin-top: -500px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#FFFF00;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.linkedin-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-radius: 50%;
+ 
+}
+
+.prova {
+  text-align: center;
+  
+}

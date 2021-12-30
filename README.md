@@ -1,2 +1,3 @@
 # calculadora-de-media
-Projeto básico de calculadora média feito junto a imersão dev da Alura. Faz o calculo de média e da como resultado se o aluno aprovou ou reprovou
+Projeto básico de uma calculadora média feito junto a imersão dev da Alura. 
+Faz o calculo de média de um aluno(a) e mostra como resultado no console o valor da média e o status de "APROVADO(A)" ou "REPROVADO(A)"
